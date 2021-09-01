@@ -98,7 +98,7 @@ async function lanjut_lagi_boi(){
               text: 'minat masukin nama dalam leaderboard, silahkan kontak admin(harus pake duid)',
               icon: 'warning',
               showConfirmButton: false,
-              timer: 1000,
+              timer: 5000,
               allowOutsideClick: false
             })
           }
